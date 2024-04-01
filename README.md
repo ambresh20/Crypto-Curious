@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Crypto Curious
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live 
+https://crypto-curious.netlify.app/
 
-## Available Scripts
+# Introduction
+Crypto Curious ultimate destination for delving into the dynamic realm of cryptocurrencies. As digital currencies continue to revolutionize financial landscapes worldwide, staying informed and empowered is key. At Crypto Curious provide you with comprehensive insights, real-time data, and intuitive tools to navigate the complexities of the crypto market with confidence.
 
-In the project directory, you can run:
+## Feature :
+#### Coin Details: 
+Dive deep into the specifics of various cryptocurrencies. Whether you’re interested in Bitcoin, Ethereum, or altcoins, Crypto Curious provides detailed information on each coin’s history, technology, and use cases.
+#### Graphs and Charts: 
+Visualize market trends with interactive graphs. Track price movements, trading volumes, and historical data. Whether you’re a seasoned trader or a newcomer, these visual aids help you make informed decisions.
+#### Real-Time Prices: 
+Stay up-to-date with live prices. Crypto Curious fetches real-time data from exchanges, ensuring you’re always in the know. Whether it’s a bull run or a bear market, you’ll find the latest prices here.
+##### Market Values: 
+Curious about the total market capitalization? Explore the combined value of all cryptocurrencies. Understand how the crypto market evolves over time.
+#### Volume Analysis: 
+Volume matters! Crypto Curious provides insights into trading volumes. Identify liquidity, spot trends, and gauge investor sentiment.
+#### Trending Coins: 
+Don’t miss out on the hottest coins. Our trending section highlights the cryptocurrencies making waves. Whether it’s a new DeFi token or an NFT project, you’ll find it here.
+###### User Profiles: 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Demo
+<img width="949" alt="Screenshot 2024-04-01 082025" src="https://github.com/ambresh20/Crypto-Curious/assets/90375507/3610adc1-910f-457f-895f-b82683df970f">
+<br>
+<img width="862" alt="Screenshot 2" src="https://github.com/ambresh20/Crypto-Curious/assets/90375507/e5234cd6-c904-4d5b-83f3-2c38383a4066"> 
+<br>
+<img width="906" alt="Screenshot 3" src="https://github.com/ambresh20/Crypto-Curious/assets/90375507/004c110f-b0b6-4c7c-838b-6cc328ebd8be">
